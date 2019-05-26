@@ -1,0 +1,11 @@
+C:\Users\Paweł\source\repos\AgilityPack\AgilityPack\bin\Debug\AgilityPack.exe.config
+C:\Users\Paweł\source\repos\AgilityPack\AgilityPack\bin\Debug\AgilityPack.exe
+C:\Users\Paweł\source\repos\AgilityPack\AgilityPack\bin\Debug\AgilityPack.pdb
+C:\Users\Paweł\source\repos\AgilityPack\AgilityPack\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Paweł\source\repos\AgilityPack\AgilityPack\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Paweł\source\repos\AgilityPack\AgilityPack\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Paweł\source\repos\AgilityPack\AgilityPack\obj\Debug\AgilityPack.csprojAssemblyReference.cache
+C:\Users\Paweł\source\repos\AgilityPack\AgilityPack\obj\Debug\AgilityPack.csproj.CoreCompileInputs.cache
+C:\Users\Paweł\source\repos\AgilityPack\AgilityPack\obj\Debug\AgilityPack.csproj.CopyComplete
+C:\Users\Paweł\source\repos\AgilityPack\AgilityPack\obj\Debug\AgilityPack.exe
+C:\Users\Paweł\source\repos\AgilityPack\AgilityPack\obj\Debug\AgilityPack.pdb
